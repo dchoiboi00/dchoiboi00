@@ -12,3 +12,4 @@ form generation, and chatbots for collection management software.
 ## Elsewhere
 
 [Site](https://dchoiboi00.github.io) · [Writing](https://dchoiboi00.github.io/writing) · [LinkedIn](https://linkedin.com/in/danielyoochoi)
+
